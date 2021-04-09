@@ -1,4 +1,4 @@
 # scraping-headlines
-Scraping news headlines to detect the semantics around Meghan vs Kate Middleton 
+Scraping news headlines and storing in database 
 
 Work in progress
